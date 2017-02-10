@@ -1,4 +1,4 @@
-defmodule ElixirAgentSpikeTest do
+defmodule ElixirAgentSpike.KVTest do
   use ExUnit.Case
   doctest ElixirAgentSpike
 
